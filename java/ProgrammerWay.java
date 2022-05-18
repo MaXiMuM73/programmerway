@@ -21,5 +21,7 @@ public class ProgrammerWay {
             System.out.println(number);
             if (number.equals(RONALDO)) System.out.println("Ronaldo");
         });
+
+        System.out.println("Test");
     }
 }
